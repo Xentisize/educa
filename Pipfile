@@ -10,6 +10,7 @@ django = "*"
 pylint = "*"
 pylint-django = "*"
 yapf = "*"
+django-braces = "*"
 
 [requires]
 python_version = "3.7"
