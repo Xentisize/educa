@@ -5,12 +5,16 @@ verify_ssl = true
 
 [dev-packages]
 black = "*"
+django-memcache-status = "*"
 
 [packages]
 pylint = "*"
 pylint-django = "*"
 django-braces = "*"
 django = "==2.2.5"
+django-embed-video = "*"
+python-memcached = "*"
+djangorestframework = "*"
 
 [requires]
 python_version = "3.7"
